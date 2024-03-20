@@ -1,0 +1,3 @@
+
+to migrate changes after creating model or after updating it, run "python3 manage.py makemigrations"
+then, python3 manage.py migrate app_name --database=database_name - replace app_name and database_name according to app and databases you have
